@@ -97,14 +97,9 @@ My personal portfolio highlighting my background, technical skills, and projects
 
 > These cards use a third-party service and may sometimes fail to load. Language statistics reflect repository contents, not overall proficiency.
 
----
 
-## 🎯 Currently Focusing On
 
-- 🧩 Improving data structures and algorithms
-- 🏗️ Learning system design fundamentals
-- 🤖 Exploring applied AI and LLM integrations
-- 🚀 Building useful, production-oriented applications
+
 
 ---
 
